@@ -1,0 +1,12 @@
+背景：
+
+1. search_help.html是deepseek的deepresearcher的实现逻辑；涉及agent的模式。
+2. llm.py是大模型的调用方式；
+3. 我们的搜索工具参考arixv_search_tool.html, 主要是论文检索。
+
+
+目标：
+我期望设计一个类似chatgpt的deep research的功能，输入问题，一步步搜索，发现不够，继续搜索，中间过程展示出来；
+最后给出总结。主要是参考search_help.html流程。
+
+
