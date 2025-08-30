@@ -119,7 +119,7 @@
 
 感谢以下贡献者的辛勤工作：
 
-- **项目创建**: [@wangweilei](https://github.com/wangweilei)
+- **项目创建**: [@AGI-Pixel](https://github.com/AGI-Pixel)
 - **核心开发**: Deep Researcher Team
 - **文档完善**: Community Contributors
 - **测试支持**: Beta Testers
@@ -128,9 +128,9 @@
 
 ## 📞 支持信息
 
-- 🐛 **Bug报告**: [GitHub Issues](https://github.com/your-username/deepseek-deepresearch/issues)
-- 💡 **功能请求**: [GitHub Discussions](https://github.com/your-username/deepseek-deepresearch/discussions)
-- 📧 **技术支持**: your.email@example.com
+- 🐛 **Bug报告**: [GitHub Issues](https://github.com/AGI-Pixel/deepseek-deepresearch/issues)
+- 💡 **功能请求**: [GitHub Discussions](https://github.com/AGI-Pixel/deepseek-deepresearch/discussions)
+- 📧 **技术支持**: contact@agi-pixel.com
 
 ---
 

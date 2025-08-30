@@ -70,6 +70,10 @@ Thumbs.db
 *.log
 logs/
 
+# md
+BLOG.md
+deepseek_agent_test*.md
+
 # Temporary files
 *.tmp
 *.temp

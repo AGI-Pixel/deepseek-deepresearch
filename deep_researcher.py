@@ -44,7 +44,7 @@ class DeepResearcher:
             
             # 分析当前轮结果并生成后续查询
             analysis_and_queries = self._analyze_results_and_generate_queries(
-                user_question, round_results, search_round
+                user_question, all_search_results, search_round
             )
             
             print(f"📊 第{search_round}轮分析：")

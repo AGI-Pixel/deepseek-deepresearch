@@ -7,7 +7,7 @@
 ### 开发环境设置
 ```bash
 # 1. Fork并克隆项目
-git clone https://github.com/your-username/deepseek-deepresearch.git
+git clone https://github.com/AGI-Pixel/deepseek-deepresearch.git
 cd deepseek-deepresearch
 
 # 2. 创建虚拟环境
@@ -145,9 +145,9 @@ python -m pytest tests/test_search.py
 
 ## 📞 联系方式
 
-- 💬 **讨论**：[GitHub Discussions](https://github.com/your-username/deepseek-deepresearch/discussions)
-- 🐛 **问题**：[GitHub Issues](https://github.com/your-username/deepseek-deepresearch/issues)
-- 📧 **邮件**：your.email@example.com
+- 💬 **讨论**：[GitHub Discussions](https://github.com/AGI-Pixel/deepseek-deepresearch/discussions)
+- 🐛 **问题**：[GitHub Issues](https://github.com/AGI-Pixel/deepseek-deepresearch/issues)
+- 📧 **邮件**：contact@agi-pixel.com
 
 ## ⚖️ 行为准则
 
